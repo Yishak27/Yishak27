@@ -12,6 +12,7 @@
 -  Read my articles in medium: https://medium.com/@ermiyasdev1
 
   Lets meet and connect and work together, 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yishak27)](https://git.io/streak-stats)
 
 ## 🛠️ Languages and Tools
 <p align="left">
