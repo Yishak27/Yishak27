@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Yishak27/Yishak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+# 👋 Hello, I'm Ermiyas Damte aka Yishak
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 💻 I’m a Software Engineer | Developer | UI/UX designer,
+- 🌱 I’m currently learning software engineering at Addis Ababa University
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: mailto:inbox@ermiyas.dev  or https://t.me/iamermi
+- ⚡ Checkout my portfolio: https://ermiyas.dev
+-  Hire me on upwork: https://www.upwork.com/freelancers/~017147ca1bf5d8c2e4
+-  Follow me on dribbble: https://dribbble.com/yishak27
+-  Read my articles in medium: https://medium.com/@ermiyasdev1
+
+  Lets meet and connect and work together, 
+
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,vue,css,html,java,cpp,php,git,github,vscode,linux,docker,kubernetes,mongodb,mysql,postgres,heroku,nodejs,express,sass,bootstrap,redis" />
+</p>
