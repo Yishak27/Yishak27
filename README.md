@@ -11,9 +11,10 @@
 -  Follow me on dribbble: https://dribbble.com/yishak27
 -  Read my articles in medium: https://medium.com/@ermiyasdev1
 
-  Lets meet and connect and work together, 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yishak27)](https://git.io/streak-stats)
 
+
+Lets meet and connect and work together, 
 ## 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,vscode,visualstudio,supabase,js,ts,vue,css,html,java,cpp,git,github,vscode,linux,docker,kubernetes,mongodb,mysql,postgres,heroku,react,nextjs,sass,bootstrap,redis" />
