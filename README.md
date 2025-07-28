@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Ermiyas Damte aka Yishak
+# I'm Ermiyas Damte (Yishak)
 
 - 💻 I’m a Software Engineer | Developer | UI/UX designer,
 - 🌱 I’m currently learning software engineering at Addis Ababa University
