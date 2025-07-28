@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,vue,css,html,java,cpp,php,git,github,vscode,linux,docker,kubernetes,mongodb,mysql,postgres,heroku,nodejs,express,sass,bootstrap,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,c#,.net,sqlserver,typescript,javascript,vs,supabase,ws02,js,ts,vue,css,html,java,cpp,git,github,vscode,linux,docker,kubernetes,mongodb,mysql,postgres,heroku,react,nextjs,sass,bootstrap,redis" />
 </p>
